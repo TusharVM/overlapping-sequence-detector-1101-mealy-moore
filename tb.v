@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 `include "mealy_o.v"
 module tb;
    reg x,clk,rst;

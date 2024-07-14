@@ -14,6 +14,7 @@ A sequence detector is a sequential state machine. It produces a pulse output wh
 
 
 ## State Transition Diagram
+-For Sequence -> 1101.
 
 ![WhatsApp Image 2024-07-14 at 4 54 22 PM](https://github.com/user-attachments/assets/54c051ee-d2e5-4525-ae53-b3b7ac697d55)
 
